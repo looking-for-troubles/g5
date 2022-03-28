@@ -1,7 +1,7 @@
 # Guasto 5
 Pagina esemplificativa dove sono riportati file, documenti e link necessari al manutentore per risolvere il guasto 5
 
-Il video è tratto dal file pdf messo a disposizione dall'azienda Körber Tissue Lucca
+Il video è tratto dal [file pdf](https://github.com/looking-for-troubles/g5/tree/main/datasheet) messo a disposizione dall'azienda Körber Tissue Lucca
 
 **Videotutorial**
 <html lang="it"> 
